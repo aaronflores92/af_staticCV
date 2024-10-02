@@ -1,3 +1,4 @@
+# Baseline Ignores from Original Author
 .idea
 node_modules/
 resources
@@ -5,3 +6,6 @@ assets/style.css
 *.toml_
 hugo_stats.json
 .hugo_build.lock
+
+# Generated Files
+public/

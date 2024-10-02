@@ -3,9 +3,9 @@ languageCode: en-us
 build:
   writeStats: true
 params:
-  title: aafu theme
-  author: Darshan Baral
-  description: Website title
+  title: Aaron's House
+  author: Aaron Flores
+  description: Aaron Flores - CV & Blog
   copyright: >-
     powered by [hugo](https://gohugo.io/) & deployed on
     [Cloudflare](https://www.cloudflare.com/)
@@ -24,9 +24,9 @@ params:
               <link rel="shortcut icon" href="favicon.ico">
 
   profile:
-    name: "First Last, Abbr."
-    tagline: Title
-    location: "City Name, ST"
+    name: "Aaron Flores"
+    tagline: Software Engineer (Systems/DevOps)
+    location: "Long Beach, CA"
     photo: profile.jpg
   social:
     title: Links
@@ -40,18 +40,6 @@ params:
       - icon: fab fa-github
         url: "#"
         title: GitHub
-      - icon: fab fa-twitter
-        url: "#"
-        title: Twitter
-      - icon: fab fa-orcid
-        url: "#"
-        title: Orcid
-      - icon: ai ai-google-scholar
-        url: "#"
-        title: Google Scholar
-      - icon: fab fa-researchgate
-        url: "#"
-        title: ResearchGate
   showInAccordion:
     - item: aboutme
       expand: true
