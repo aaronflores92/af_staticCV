@@ -1,4 +1,4 @@
 ---
-title: "aafu theme"
+title: "Learnings and Projects"
 weight: 100
 ---
